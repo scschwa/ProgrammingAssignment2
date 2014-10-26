@@ -2,7 +2,7 @@
 title: "Test Cases for Programming Assignment 2"
 author: "Stephen Schwartz"
 date: "Sunday, October 26, 2014"
-output: html_document
+output: word_document
 ---
 
 Following are the declarations for the two functions in 'cachematrx.R' and then 3 test cases that demonstrate the functions.
